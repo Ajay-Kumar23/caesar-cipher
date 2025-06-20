@@ -39,10 +39,3 @@ Only alphabetic characters are encrypted; punctuation and numbers are preserved 
 python caesar_cipher.py
 
 
-## 🧠 About Caesar Cipher
-
-The **Caesar Cipher** is one of the oldest and simplest known encryption techniques.  
-It works by shifting each letter in the plaintext by a fixed number of positions down the alphabet.
-
-**Example:**
-
